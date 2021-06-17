@@ -1,0 +1,7 @@
+/DocPlus/migrations/
+/DocPlus/__pycache__/
+/chat/migrations/
+/chat/__pycache__/
+.env
+/docplus_rct/
+/media/
